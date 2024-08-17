@@ -75,8 +75,13 @@ const morteza-developers = {
 <hr></hr>
 ---
 
-<img align="center" src="https://raw.githubusercontent.com/morteza-developers/morteza-developers/output/snake.svg" />
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/morteza-developers/morteza-developers/output/snake.svg" alt="Snake animation" />
 <br />
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=morteza-developers&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
