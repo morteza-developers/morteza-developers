@@ -3,7 +3,8 @@
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/image/Developer.gif" width="25" /> &nbsp; I’m currently learning **React & Front End**.
   <img align="right" src="/image/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **Ai**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc Front End, JavaScript**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc Front End, JavaScript**.
+ <br>
 
 ```c#
 const morteza-developers = {
@@ -20,22 +21,22 @@ const morteza-developers = {
 
 <h2>⚡️ &nbsp; Skils</h2>
   <a href="https://react.dev/">
-    <img src="/svg/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px">
+    <img src="/svg/frameworks/react.svg" alt="react" style="margin:10px">
   </a>  
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="/svg/languages/js.svg" alt="js" style="vertical-align:top; margin:6px">
+    <img src="/svg/languages/js.svg" alt="js" style="margin:10px">
   </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">
-    <img src="/svg/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px">
+    <img src="/svg/languages/css3.svg" alt="css3" style="margin:10px">
   </a>  
     <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">
-    <img src="svg/languages/html.svg" alt="html" style="vertical-align:top; margin:6px">
+    <img src="svg/languages/html.svg" alt="html" style="margin:10px">
   </a> 
  <br/>
  <br/>
 
   <a href="https://www.typescriptlang.org/">
-    <img src="svg/frameworks/typescript.svg" alt="html" style="vertical-align:top; margin:6px">
+    <img src="svg/frameworks/typescript.svg" alt="html" style="margin:10px">
   </a>
   <a href="https://nextjs.org/">
     <img src="svg/frameworks/next.svg" alt="html" style="vertical-align:top; margin:6px">
@@ -109,11 +110,9 @@ const morteza-developers = {
 ![](https://github-contributor-stats.vercel.app/api?username=morteza-developers&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <br/>
-<br/>
 
 
 ## Social & Professional
-
   <a href="morteza.developers@gmail.com">
     <img src="/svg/gmail.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
   </a>  
