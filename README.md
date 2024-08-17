@@ -22,10 +22,11 @@ const morteza-developers = {
 <h2>⚡️ &nbsp; Skils</h2>
   <a href="https://react.dev/">
     <img src="/svg/frameworks/react.svg" alt="react" style="margin:10px">
-  </a>  
+  </a>  &emsp;
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="/svg/languages/js.svg" alt="js" style="margin:10px">
-  </a>  
+  </a> 
+&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">
     <img src="/svg/languages/css3.svg" alt="css3" style="margin:10px">
   </a>  
