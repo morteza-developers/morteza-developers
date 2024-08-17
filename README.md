@@ -22,7 +22,6 @@ const morteza-developers = {
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
 <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
 </div>
 
@@ -35,6 +34,7 @@ const morteza-developers = {
 [![wakatime](https://wakatime.com/badge/user/a2dbda50-7939-4983-b0f3-9ce8fcaadb30.svg)](https://wakatime.com/@a2dbda50-7939-4983-b0f3-9ce8fcaadb30)
 <img src="https://komarev.com/ghpvc/?username=amirkeramat&label=PROFILE+VIEWS" />
 ---
+<img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 <br />
 
