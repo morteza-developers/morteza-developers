@@ -1,4 +1,4 @@
-# Hi I'm a Developer </> 👋
+# Hi My Name Is Morteza , I'm a Developer </> 👋
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/image/Developer.gif" width="25" /> &nbsp; I’m currently learning **React & Front End**.
   <img align="right" src="/image/Penguin.png" alt="Penguin" width="15%" /><br>
@@ -18,14 +18,6 @@ const morteza-developers = {
 };
 ```
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 <h2>⚡️ &nbsp; Skils</h2>
   <a href="https://react.dev/">
     <img src="/svg/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px">
@@ -39,6 +31,7 @@ const morteza-developers = {
     <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">
     <img src="svg/languages/html.svg" alt="html" style="vertical-align:top; margin:6px">
   </a> 
+ <br/>
  <br/>
   <a href="https://www.typescriptlang.org/">
     <img src="svg/frameworks/typescript.svg" alt="html" style="vertical-align:top; margin:6px">
@@ -93,11 +86,9 @@ const morteza-developers = {
 <h3>⚡️ &nbsp; Github Stats</h3>
 <div align="center" >
 <a  href="https://github.com/morteza-developers">
-
-<img src="https://raw.githubusercontent.com/morteza-developers/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/morteza-developers/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=morteza-developers&show_icons=true&theme=dracula" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morteza-developers&layout=donut" width="32.5%">
 <img src="https://raw.githubusercontent.com/morteza-developers/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
 </a>
 
 <details>
@@ -106,16 +97,15 @@ const morteza-developers = {
 
 </details>
 ###
-
 <br clear="both">
 <img src="/svg/snake.svg" alt="Snake animation" />
 <br />
 
-### 🔝 Top Contributed Repo
 
+<h3>⚡️ &nbsp; ### 🔝 Top Contributed Repo</h3>
 ![](https://github-contributor-stats.vercel.app/api?username=morteza-developers&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br/>
-
+<br/>
 ## Social & Professional
 
   <a href="morteza.developers@gmail.com">
