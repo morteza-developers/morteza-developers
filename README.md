@@ -1,11 +1,13 @@
-# Hi My Name Is Morteza </> 👋
+<># Hi My Name Is Morteza </> 👋
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;; I Am a  **Front End** developer.<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;I Am a  **Front End** developer.<br>
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/image/Developer.gif" width="25" /> &nbsp; I’m currently learning **React & Front End**.
   <img align="right" src="/image/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;; I like exploring **AI** And **World Bit**.<br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc, Front End, JavaScript**.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp; I like exploring **AI** And **World Bit**.<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp; Ask me about **Pc, Front End, JavaScript**.
 <br>
+I am an active, goal-oriented person interested in programming with several years of experience working in the client sector in various companies.
+<br/>
 
 ```c#
 const morteza-developers = {
@@ -13,7 +15,6 @@ const morteza-developers = {
   data: {
     name: "Morteza khedmatgozar",
     birthDay: "30 jun. 1998",
-    skills: ["React","Typescript" ,"Webpack","Nextjs","React Native","Html" , "Css" , "TailwinsCss" , "EcmaScript" ,"Mui", ],
     hobbies: ["Coding" ,"Challenge","Study","Coffee" , "Waik"],
     quote: "Everything we do is practice for something greater than where we currently are. Practice only makes for improvement. – Les Brown."
   }
@@ -116,10 +117,10 @@ const morteza-developers = {
 
 ## Social & Professional
   <a href="morteza.developers@gmail.com">
-    <img src="/svg/gmail.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
+    <img src="/svg/gmail.svg" alt="email_me" style="margin:6px 4px">
   </a>  
-    <a href="#">
-    <img src="/svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    <a href="https://www.linkedin.com/in/morteza-dev">
+    <img src="/svg/linkedin.svg" alt="linkedin" style="margin:6px 4px">
   </a>  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
