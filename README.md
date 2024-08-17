@@ -31,7 +31,6 @@ const morteza-developers = {
     <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">
     <img src="svg/languages/html.svg" alt="html" style="vertical-align:top; margin:6px">
   </a> 
-
  <br/>
  <br/>
 
@@ -47,7 +46,6 @@ const morteza-developers = {
   <a href="https://mui.com/">
     <img src="svg/frameworks/mui.svg" alt="html" style="vertical-align:top; margin:6px">
   </a>
-  <br/>
   <br/>
 
   <a href="https://redux.js.org/">
@@ -66,7 +64,6 @@ const morteza-developers = {
     <img src="svg/frameworks/python.svg" alt="html" style="vertical-align:top; margin:6px">
   </a>
   <br/>
-
   <h4> Tools</h4>
     <a href="https://www.jetbrains.com/webstorm/">
     <img src="/svg/tools/jetbrains_webstorm.svg" alt="jetbrains webstorm" style="vertical-align:top; margin:6px 4px">
@@ -74,7 +71,6 @@ const morteza-developers = {
     <a href="https://code.visualstudio.com/">
     <img src="/svg/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a>
-  <br/>
   <br/>
   
   <a href="https://git-scm.com/">
@@ -95,8 +91,8 @@ const morteza-developers = {
 <h3>⚡️ &nbsp; Github Stats</h3>
 <div align="center" >
 <a  href="https://github.com/morteza-developers">
-<img src="https://github-readme-stats.vercel.app/api?username=morteza-developers&show_icons=true" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morteza-developers&layout=donut" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=morteza-developers&show_icons=true" width="45%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morteza-developers&layout=donut" width="45%">
 </a>
 
 ###
