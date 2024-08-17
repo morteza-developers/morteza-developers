@@ -1,4 +1,4 @@
-<># Hi My Name Is Morteza </> 👋
+# <> Hi My Name Is Morteza </> 👋
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;I Am a  **Front End** developer.<br>
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/image/Developer.gif" width="25" /> &nbsp; I’m currently learning **React & Front End**.
@@ -6,10 +6,12 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp; I like exploring **AI** And **World Bit**.<br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp; Ask me about **Pc, Front End, JavaScript**.
 <br>
-<h2>⚡️ About Me</h2>
 
-<p>I am an active, goal-oriented person interested in programming with several years of experience working in the client sector in various companies.
-</p>
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
+- 💼 I am an active, goal-oriented person interested in programming with several years of experience working in the client sector in various companies.
+- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
+
 <br>
 
 <h2>⚡️ Skils</h2>
