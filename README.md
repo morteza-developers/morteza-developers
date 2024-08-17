@@ -29,7 +29,7 @@ const morteza-developers = {
 &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">
     <img src="/svg/languages/css3.svg" alt="css3" style="margin:10px">
-  </a>  
+  </a> &nbsp; 
     <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">
     <img src="svg/languages/html.svg" alt="html" style="margin:10px">
   </a> 
@@ -38,31 +38,31 @@ const morteza-developers = {
   <a href="https://www.typescriptlang.org/">
     <img src="svg/frameworks/typescript.svg" alt="html" style="margin:10px">
   </a>
-  <a href="https://nextjs.org/">
+&nbsp;  <a href="https://nextjs.org/">
     <img src="svg/frameworks/next.svg" alt="html" style="margin:6px">
   </a>
-  <a href="https://tailwindcss.com/">
+&nbsp;  <a href="https://tailwindcss.com/">
     <img src="svg/frameworks/talwindcss.svg" alt="html" style="margin:6px">
   </a>
-  <a href="https://mui.com/">
+&nbsp;  <a href="https://mui.com/">
     <img src="svg/frameworks/mui.svg" alt="html" style="margin:6px">
   </a>
-
+&nbsp;
   <br/>
 
   <a href="https://redux.js.org/">
     <img src="svg/frameworks/redux.svg" alt="html" style="margin:6px">
   </a>
-  <a href="https://socket.io/">
+&nbsp;  <a href="https://socket.io/">
     <img src="svg/frameworks/socket.svg" alt="html" style="margin:6px">
   </a>
-  <a href="https://reactnative.dev/">
+&nbsp;  <a href="https://reactnative.dev/">
     <img src="svg/frameworks/native.svg" alt="html" style="margin:6px">
   </a>
-    <a href="https://www.chartjs.org/">
+&nbsp;    <a href="https://www.chartjs.org/">
     <img src="svg/frameworks/chart.svg" alt="html" style="margin:6px">
   </a>
-  <a href="https://www.python.org/">
+&nbsp;  <a href="https://www.python.org/">
     <img src="svg/frameworks/python.svg" alt="html" style="margin:6px">
   </a>
   <br/>
@@ -71,7 +71,7 @@ const morteza-developers = {
     <a href="https://www.jetbrains.com/webstorm/">
     <img src="/svg/tools/jetbrains_webstorm.svg" alt="jetbrains webstorm" style="vertical-align:top; margin:6px 4px">
   </a> 
-    <a href="https://code.visualstudio.com/">
+&nbsp;    <a href="https://code.visualstudio.com/">
     <img src="/svg/tools/visualstudio_code.svg" alt="visualstudio_code" style="margin:6px 4px">
   </a>
   <br/>
@@ -79,10 +79,10 @@ const morteza-developers = {
   <a href="https://git-scm.com/">
     <img src="svg/frameworks/git.svg" alt="html" style="margin:6px">
   </a>
-  <a href="https://www.npmjs.com/">
+&nbsp;  <a href="https://www.npmjs.com/">
     <img src="svg/frameworks/npm.svg" alt="html" style="margin:6px">
   </a>
-    <a href="https://webpack.js.org/">
+&nbsp;    <a href="https://webpack.js.org/">
     <img src="svg/frameworks/webpack.svg" alt="html" style="margin:6px">
   </a>
 <br/>
