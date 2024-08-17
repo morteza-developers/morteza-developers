@@ -61,7 +61,7 @@
   </a>
   <br/>
 
-  <h4> 📏 &nbsp; Tools</h4>
+  <h4> 📏 Tools</h4>
     <a href="https://www.jetbrains.com/webstorm/">
     <img src="/svg/tools/jetbrains_webstorm.svg" alt="jetbrains webstorm" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -85,7 +85,7 @@
   <img src="/gif/code.gif" width="450px" style="max-width:500px" />
 </div>
 
-##  Github Stats
+## :star: Github Stats
 <div align="center" >
 <a  href="https://github.com/morteza-developers">
 <img src="https://github-readme-stats.vercel.app/api?username=morteza-developers&show_icons=true" width="100%">
@@ -97,7 +97,7 @@
 <img src="/svg/snake.svg" alt="Snake animation" />
 <br />
 
-## 🏆 &nbsp; Top Contributed Repo
+## 🏆 Top Contributed Repo
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=morteza-developers&limit=5&theme=dark&combine_all_yearly_contributions=true)
