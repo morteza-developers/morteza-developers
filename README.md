@@ -22,6 +22,7 @@ const morteza-developers = {
 ---
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
 <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
 </div>
 
