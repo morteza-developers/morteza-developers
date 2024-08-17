@@ -6,25 +6,13 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp; I like exploring **AI** And **World Bit**.<br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp; Ask me about **Pc, Front End, JavaScript**.
 <br>
+<h2>⚡️ About Me</h2>
+
 <p>I am an active, goal-oriented person interested in programming with several years of experience working in the client sector in various companies.
 </p>
 <br>
 
-
-
-```c#
-const morteza-developers = {
-  status: 202,
-  data: {
-    name: "Morteza khedmatgozar",
-    birthDay: "30 jun. 1998",
-    hobbies: ["Coding" ,"Challenge","Study","Coffee" , "Waik"],
-    quote: "Everything we do is practice for something greater than where we currently are. Practice only makes for improvement. – Les Brown."
-  }
-};
-```
-
-<h2>⚡️ &nbsp; Skils</h2>
+<h2>⚡️ Skils</h2>
   <a href="https://react.dev/">
     <img src="/svg/frameworks/react.svg" alt="react" style="margin:10px">
   </a> &nbsp; 
