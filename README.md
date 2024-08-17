@@ -23,7 +23,7 @@ const morteza-developers = {
     <img src="/svg/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>  
     <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a> 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -41,7 +41,7 @@ const morteza-developers = {
   <br/>
   <br/>
     <a href="https://www.jetbrains.com/webstorm/">
-    <img src="/svg/dev/tools/jetbrains_webstorm.svg" alt="jetbrains webstorm" style="vertical-align:top; margin:6px 4px">
+    <img src="/svg/tools/jetbrains_webstorm.svg" alt="jetbrains webstorm" style="vertical-align:top; margin:6px 4px">
   </a> 
     <a href="https://code.visualstudio.com/">
     <img src="/svg/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
