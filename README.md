@@ -11,7 +11,7 @@
 - 💼 I am an active, goal-oriented person interested in programming with several years of experience working in the client sector in various companies.
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
 
-## :skil: Skils
+## ⛷️ &nbsp; Skils
   <a href="https://react.dev/">
     <img src="/svg/frameworks/react.svg" alt="react" style="margin:10px">
   </a> &nbsp; 
@@ -61,7 +61,7 @@
   </a>
   <br/>
 
-  <h4> :tools: Tools</h4>
+  <h4> 📏 &nbsp; Tools</h4>
     <a href="https://www.jetbrains.com/webstorm/">
     <img src="/svg/tools/jetbrains_webstorm.svg" alt="jetbrains webstorm" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -85,7 +85,7 @@
   <img src="/gif/code.gif" width="450px" style="max-width:500px" />
 </div>
 
-## :star: Github Stats
+##  Github Stats
 <div align="center" >
 <a  href="https://github.com/morteza-developers">
 <img src="https://github-readme-stats.vercel.app/api?username=morteza-developers&show_icons=true" width="100%">
@@ -97,7 +97,7 @@
 <img src="/svg/snake.svg" alt="Snake animation" />
 <br />
 
-## :best: Top Contributed Repo
+## 🏆 &nbsp; Top Contributed Repo
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=morteza-developers&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -105,7 +105,7 @@
 <br/>
 
 
-## :professional: Social & Professional
+##  Social & Professional
   <a href="morteza.developers@gmail.com">
     <img src="/svg/gmail.svg" alt="email_me" style="margin:6px 4px">
   </a>  
