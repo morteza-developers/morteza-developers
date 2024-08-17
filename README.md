@@ -35,9 +35,7 @@ const morteza-developers = {
 ---
   <br/>
   <br/>
-  <br/>
   <h4> Tools</h4>
-  <br/>
   <br/>
     <a href="https://www.jetbrains.com/webstorm/">
     <img src="/svg/tools/jetbrains_webstorm.svg" alt="jetbrains webstorm" style="vertical-align:top; margin:6px 4px">
@@ -75,10 +73,6 @@ const morteza-developers = {
 <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
 </details>
-  
-<hr></hr>
----
-
 ###
 
 <br clear="both">
@@ -89,7 +83,6 @@ const morteza-developers = {
 
 ![](https://github-contributor-stats.vercel.app/api?username=morteza-developers&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br/>
-
 ## Social & Professional
 
   <a href="#">
