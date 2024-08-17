@@ -3,13 +3,10 @@
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/image/Developer.gif" width="25" /> &nbsp; I’m currently learning **React & Front End**.
   <img align="right" src="/image/Penguin.png" alt="Penguin" width="15%" />
 <br>
-
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **Ai**.
  <br>
-
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc, Front End, JavaScript**.
 <br>
-
 
 ```c#
 const morteza-developers = {
