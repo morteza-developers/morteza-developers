@@ -31,8 +31,10 @@ const morteza-developers = {
     <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">
     <img src="svg/languages/html.svg" alt="html" style="vertical-align:top; margin:6px">
   </a> 
+
  <br/>
  <br/>
+
   <a href="https://www.typescriptlang.org/">
     <img src="svg/frameworks/typescript.svg" alt="html" style="vertical-align:top; margin:6px">
   </a>
@@ -45,6 +47,9 @@ const morteza-developers = {
   <a href="https://mui.com/">
     <img src="svg/frameworks/mui.svg" alt="html" style="vertical-align:top; margin:6px">
   </a>
+  <br/>
+  <br/>
+
   <a href="https://redux.js.org/">
     <img src="svg/frameworks/redux.svg" alt="html" style="vertical-align:top; margin:6px">
   </a>
@@ -61,6 +66,7 @@ const morteza-developers = {
     <img src="svg/frameworks/python.svg" alt="html" style="vertical-align:top; margin:6px">
   </a>
   <br/>
+
   <h4> Tools</h4>
     <a href="https://www.jetbrains.com/webstorm/">
     <img src="/svg/tools/jetbrains_webstorm.svg" alt="jetbrains webstorm" style="vertical-align:top; margin:6px 4px">
@@ -68,6 +74,9 @@ const morteza-developers = {
     <a href="https://code.visualstudio.com/">
     <img src="/svg/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a>
+  <br/>
+  <br/>
+  
   <a href="https://git-scm.com/">
     <img src="svg/frameworks/git.svg" alt="html" style="vertical-align:top; margin:6px">
   </a>
@@ -80,32 +89,27 @@ const morteza-developers = {
 <br/>
 
 <div align="center">
-  <img src="/gif/code.gif" width="100%" style="max-width:500px" />
+  <img src="/gif/code.gif" width="450px" style="max-width:500px" />
 </div>
 
 <h3>⚡️ &nbsp; Github Stats</h3>
 <div align="center" >
 <a  href="https://github.com/morteza-developers">
-<img src="https://github-readme-stats.vercel.app/api?username=morteza-developers&show_icons=true&theme=dracula" width="32.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morteza-developers&layout=donut" width="32.5%">
-<img src="https://raw.githubusercontent.com/morteza-developers/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=morteza-developers&show_icons=true" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morteza-developers&layout=donut" width="50%">
 </a>
 
-<details>
-  <summary>More stats</summary>
-<img align="center" src="https://raw.githubusercontent.com/morteza-developers/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
 ###
 <br clear="both">
 <img src="/svg/snake.svg" alt="Snake animation" />
 <br />
 
-
 <h3>⚡️ &nbsp; ### 🔝 Top Contributed Repo</h3>
 ![](https://github-contributor-stats.vercel.app/api?username=morteza-developers&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br/>
 <br/>
+
+
 ## Social & Professional
 
   <a href="morteza.developers@gmail.com">
