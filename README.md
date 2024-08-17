@@ -6,7 +6,8 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp; I like exploring **AI** And **World Bit**.<br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp; Ask me about **Pc, Front End, JavaScript**.
 <br>
-I am an active, goal-oriented person interested in programming with several years of experience working in the client sector in various companies.
+<p>I am an active, goal-oriented person interested in programming with several years of experience working in the client sector in various companies.
+</p>
 <br>
 
 
@@ -97,7 +98,7 @@ const morteza-developers = {
   <img src="/gif/code.gif" width="450px" style="max-width:500px" />
 </div>
 
-<h3>⚡️ &nbsp; Github Stats</h3>
+<h3>⚡️ Github Stats</h3>
 <div align="center" >
 <a  href="https://github.com/morteza-developers">
 <img src="https://github-readme-stats.vercel.app/api?username=morteza-developers&show_icons=true" width="100%">
@@ -109,7 +110,7 @@ const morteza-developers = {
 <img src="/svg/snake.svg" alt="Snake animation" />
 <br />
 
-<h3>⚡️ &nbsp; Top Contributed Repo</h3>
+<h3>⚡️Top Contributed Repo</h3>
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=morteza-developers&limit=5&theme=dark&combine_all_yearly_contributions=true)
