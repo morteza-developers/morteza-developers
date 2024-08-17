@@ -21,7 +21,7 @@ const morteza-developers = {
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ---
 <h2>⚡️ &nbsp; Skils</h2>
-  <a href="#">
+  <a href="https://react.dev/">
     <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>  
   <a href="#">
@@ -33,11 +33,15 @@ const morteza-developers = {
     <a href="#">
     <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a>  
+  
+  <br/>
+  
   ### Tools  
-    <a href="#">
+  <br/>
+    <a href="https://www.jetbrains.com/webstorm/">
     <img src="svg/dev/tools/jetbrains_webstorm.svg" alt="jetbrains webstorm" style="vertical-align:top; margin:6px 4px">
   </a> 
-    <a href="#">
+    <a href="https://code.visualstudio.com/">
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a> 
 
