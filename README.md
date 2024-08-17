@@ -57,7 +57,8 @@ const morteza-developers = {
 
 <h2>⚡️ &nbsp; Github Stats</h2>
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/image/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. 
+<img align="right" src="/image/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂 𝙋⚡ 乂 𝘿](https://t.me/spxd007)**<br>
@@ -74,7 +75,6 @@ const morteza-developers = {
 
 <details>
   <summary>More stats</summary>
-  
 <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
 </details>
@@ -85,7 +85,6 @@ const morteza-developers = {
 ###
 
 <br clear="both">
-
 <img src="/svg/snake.svg" alt="Snake animation" />
 <br />
 
