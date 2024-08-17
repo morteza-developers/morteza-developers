@@ -24,18 +24,17 @@ const morteza-developers = {
   <a href="https://react.dev/">
     <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>  
-  <a href="#">
-    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>  
-    <a href="#">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>  
-    <a href="#">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a>  
-  
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>  
   <br/>
-  
+  <br/>
   ### Tools  
   <br/>
     <a href="https://www.jetbrains.com/webstorm/">
