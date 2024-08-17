@@ -33,37 +33,36 @@ const morteza-developers = {
     <img src="svg/languages/html.svg" alt="html" style="margin:10px">
   </a> 
  <br/>
- <br/>
 
   <a href="https://www.typescriptlang.org/">
     <img src="svg/frameworks/typescript.svg" alt="html" style="margin:10px">
   </a>
   <a href="https://nextjs.org/">
-    <img src="svg/frameworks/next.svg" alt="html" style="vertical-align:top; margin:6px">
+    <img src="svg/frameworks/next.svg" alt="html" style="margin:6px">
   </a>
   <a href="https://tailwindcss.com/">
-    <img src="svg/frameworks/talwindcss.svg" alt="html" style="vertical-align:top; margin:6px">
+    <img src="svg/frameworks/talwindcss.svg" alt="html" style="margin:6px">
   </a>
   <a href="https://mui.com/">
-    <img src="svg/frameworks/mui.svg" alt="html" style="vertical-align:top; margin:6px">
+    <img src="svg/frameworks/mui.svg" alt="html" style="margin:6px">
   </a>
 
   <br/>
 
   <a href="https://redux.js.org/">
-    <img src="svg/frameworks/redux.svg" alt="html" style="vertical-align:top; margin:6px">
+    <img src="svg/frameworks/redux.svg" alt="html" style="margin:6px">
   </a>
   <a href="https://socket.io/">
-    <img src="svg/frameworks/socket.svg" alt="html" style="vertical-align:top; margin:6px">
+    <img src="svg/frameworks/socket.svg" alt="html" style="margin:6px">
   </a>
   <a href="https://reactnative.dev/">
-    <img src="svg/frameworks/native.svg" alt="html" style="vertical-align:top; margin:6px">
+    <img src="svg/frameworks/native.svg" alt="html" style="margin:6px">
   </a>
     <a href="https://www.chartjs.org/">
-    <img src="svg/frameworks/chart.svg" alt="html" style="vertical-align:top; margin:6px">
+    <img src="svg/frameworks/chart.svg" alt="html" style="margin:6px">
   </a>
   <a href="https://www.python.org/">
-    <img src="svg/frameworks/python.svg" alt="html" style="vertical-align:top; margin:6px">
+    <img src="svg/frameworks/python.svg" alt="html" style="margin:6px">
   </a>
   <br/>
 
@@ -72,19 +71,18 @@ const morteza-developers = {
     <img src="/svg/tools/jetbrains_webstorm.svg" alt="jetbrains webstorm" style="vertical-align:top; margin:6px 4px">
   </a> 
     <a href="https://code.visualstudio.com/">
-    <img src="/svg/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+    <img src="/svg/tools/visualstudio_code.svg" alt="visualstudio_code" style="margin:6px 4px">
   </a>
-
   <br/>
   
   <a href="https://git-scm.com/">
-    <img src="svg/frameworks/git.svg" alt="html" style="vertical-align:top; margin:6px">
+    <img src="svg/frameworks/git.svg" alt="html" style="margin:6px">
   </a>
   <a href="https://www.npmjs.com/">
-    <img src="svg/frameworks/npm.svg" alt="html" style="vertical-align:top; margin:6px">
+    <img src="svg/frameworks/npm.svg" alt="html" style="margin:6px">
   </a>
     <a href="https://webpack.js.org/">
-    <img src="svg/frameworks/webpack.svg" alt="html" style="vertical-align:top; margin:6px">
+    <img src="svg/frameworks/webpack.svg" alt="html" style="margin:6px">
   </a>
 <br/>
 
@@ -104,7 +102,7 @@ const morteza-developers = {
 <img src="/svg/snake.svg" alt="Snake animation" />
 <br />
 
-<h3>⚡️ &nbsp; ### 🔝 Top Contributed Repo</h3>
+<h3>⚡️ &nbsp; Top Contributed Repo</h3>
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=morteza-developers&limit=5&theme=dark&combine_all_yearly_contributions=true)
