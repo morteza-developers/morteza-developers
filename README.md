@@ -44,12 +44,12 @@ const morteza-developers = {
 &nbsp;  <a href="https://tailwindcss.com/">
     <img src="svg/frameworks/talwindcss.svg" alt="html" style="margin:6px">
   </a>
-&nbsp;  <a href="https://mui.com/">
+<br/>
+
+ <a href="https://mui.com/">
     <img src="svg/frameworks/mui.svg" alt="html" style="margin:6px">
   </a>
 &nbsp;
-  <br/>
-
   <a href="https://redux.js.org/">
     <img src="svg/frameworks/redux.svg" alt="html" style="margin:6px">
   </a>
@@ -59,7 +59,9 @@ const morteza-developers = {
 &nbsp;  <a href="https://reactnative.dev/">
     <img src="svg/frameworks/native.svg" alt="html" style="margin:6px">
   </a>
-&nbsp;    <a href="https://www.chartjs.org/">
+<br/>
+ 
+  <a href="https://www.chartjs.org/">
     <img src="svg/frameworks/chart.svg" alt="html" style="margin:6px">
   </a>
 &nbsp;  <a href="https://www.python.org/">
