@@ -11,7 +11,7 @@
 - 💼 I am an active, goal-oriented person interested in programming with several years of experience working in the client sector in various companies.
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
 <br>
-## ⚡️ Skils
+## :star: Skils
   <a href="https://react.dev/">
     <img src="/svg/frameworks/react.svg" alt="react" style="margin:10px">
   </a> &nbsp; 
