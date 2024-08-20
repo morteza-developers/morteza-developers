@@ -3,10 +3,10 @@
 <br>
 
 > - 🧑‍💻 I Am a  **Front End** developer
-> - 🖥 I’m currently learning **React & Front End**
-> - 🖥 I like exploring **AI** And **World Bit**
-> - 🖥 Ask me about **Pc, Front End, JavaScript**
-> - 🖥 Software Developers With Bold Ideas
+> - 📖 I’m currently  **React & Front End**
+> - 👌 I like exploring **AI** And **World Bit**
+> - ❔ Ask me about **Pc, Front End, JavaScript**
+> - 💡 Software Developers With Bold Ideas
 > - 💼 I am an active, goal-oriented person interested in programming with several years of experience working in the client sector in various companies.
 > - 🌐 You Can Access All My Open-source Projects Here On Github
 
@@ -79,6 +79,18 @@
 </a>
 &nbsp;<a href="https://webpack.js.org/">
   <img src="svg/frameworks/webpack.svg" alt="webpack">
+</a>
+&nbsp;<a href="https://www.figma.com/">
+  <img src="svg/tools/figma.svg" alt="figma">
+</a>
+&nbsp;<a href="https://jwt.io/">
+  <img src="svg/tools/jwt.svg" alt="jwt">
+</a>
+&nbsp;<a href="https://www.postman.com/">
+  <img src="svg/tools/postman.svg" alt="postman">
+</a>
+&nbsp;<a href="https://storybook.js.org/">
+  <img src="svg/tools/storybook.svg" alt="storybook">
 </a>
 <br/>
 
